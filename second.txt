@@ -1,0 +1,5 @@
+Sir's instructions
+1.Make Github Account
+2.Create your own Repository
+3.Practice Pull/Push commands
+4.Read from Pro Git book and Git Documentation 
